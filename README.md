@@ -9,4 +9,4 @@ Simulation_Example2_Exfclust.R file includes the codes to generate simulation da
 
 Simulation_Example2_Mqfclust.R file includes the codes to apply Mqfclust methods. It requires that R functions defined in MquantileCurves.R and dataset generated in Simulation_Example_Exfclust.R are attached. 
 
-The results of the simulation code are displayed in the paper "Pseudo-quantile based Functional Data Clustering" by Joonpyo Kim and Hee-Seok Oh. 
+The results of the simulation code are displayed in the paper "Pseudo-quantile based Functional Data Clustering" by Joonpyo Kim and Hee-Seok Oh. The paper was accepted for publication by the Journal of Multivariate Analysis. 
